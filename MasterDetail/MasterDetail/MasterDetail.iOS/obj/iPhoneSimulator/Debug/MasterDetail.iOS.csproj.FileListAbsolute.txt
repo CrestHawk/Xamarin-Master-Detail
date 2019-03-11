@@ -1,0 +1,11 @@
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\Page1.xaml.g.cs
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\Page2.xaml.g.cs
+E:\Dev\Xamarin\MasterDetail\Xamarin-Master-Detail\MasterDetail\MasterDetail\MasterDetail.iOS\obj\iPhoneSimulator\Debug\MasterDetail.iOS.csproj.CoreCompileInputs.cache
